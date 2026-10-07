@@ -1,5 +1,11 @@
 # AMA4840 Cheatsheet
 
+[View / download PDF](ama4840cheatsheet.pdf)
+
+[![AMA4840 cheatsheet - page 1](assets/ama4840cheatsheet-page-1.png)](ama4840cheatsheet.pdf)
+
+[![AMA4840 cheatsheet - page 2](assets/ama4840cheatsheet-page-2.png)](ama4840cheatsheet.pdf)
+
 A comprehensive LaTeX cheatsheet for AMA4840 (PolyU Applied Mathematics coursework).
 
 ## Overview
