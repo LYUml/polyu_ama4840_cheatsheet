@@ -9,6 +9,7 @@ This repository contains a comprehensive reference for AMA4840. **Page 1** cover
 ## Contents
 
 - **ama4840cheatsheet.txt** - LaTeX source file containing the cheatsheet content
+- **[ama4840cheatsheet.pdf](ama4840cheatsheet.pdf)** - Compiled PDF ready to view or download
 
 ## Usage
 
